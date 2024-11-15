@@ -105,18 +105,13 @@
                 "PCA_mqc.png:md5,8e4456b730ab72f0dcd5ed1895660df8",
                 "PCAi_mqc.png:md5,2338d5fe0e447fc74d4969725546c136",
                 "POSF_vs_NEGF_mqc.png:md5,0e1b5105e68a6e0c51471afce218abdb",
-                "plot_normf_mqc.png:md5,6ffd3c11f8f5ddfbd3715e1780b10b01",
-                "multiqc_citations.txt:md5,4c806e63a283ec1b7e78cdae3a923d4f",
-                "multiqc_normalized_qc-section-plot.txt:md5,215491482edeafbe25c4ef5f3e3b0a70",
-                "multiqc_software_versions.txt:md5,71bb154e2ff0c731c14f8570be769f41",
-                "multiqc_sources.txt:md5,d2a044df39ce3c6abe5cdc2d67473490",
-                "normalized_qc-section-plot.png:md5,d78ef99dba9b62d7c79d9a97de4c2f5b"
+                "plot_normf_mqc.png:md5,6ffd3c11f8f5ddfbd3715e1780b10b01"
             ]
         ],
         "meta": {
             "nf-test": "0.9.0",
             "nextflow": "24.10.0"
         },
-        "timestamp": "2024-11-14T18:40:21.142814077"
+        "timestamp": "2024-11-15T17:10:12.667416483"
     }
 }
