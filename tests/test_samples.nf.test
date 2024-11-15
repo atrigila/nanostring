@@ -23,7 +23,9 @@ nextflow_pipeline {
                 'annotated_tables/*.tsv',
                 'normalized_counts/*.tsv',
                 'normalized_counts/*.tsv',
+                'gene_heatmaps/*.png',
                 'multiqc/multiqc_plots/**/*.{svg,pdf,png}',
+                'multiqc/multiqc_data/**/*-section-plot.txt'
                 ])
             // stable_path: All files in ${params.outdir}/ with stable content
             def stable_path = getAllFilesFromDir(params.outdir, ignoreFile: 'tests/.nftignore')
